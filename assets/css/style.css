@@ -128,6 +128,7 @@
             }
             
             .playButton {
+                background-color: transparent;
                 position: absolute;
                 width: 86px;
                 height: 83px;
@@ -378,4 +379,95 @@
                 background-color: #FFA800;
                 border: none;
                 display: inline-block;
+            }
+            
+            .union {
+                position: absolute;
+                width: 1366px;
+                height: 533.32px;
+                left: 0px;
+                top: 2827px;
+                background: #FFCB66;
+            }
+            /* .rectangle {
+                position: absolute;
+                width: 1366px;
+                height: 92.51px;
+                left: 0px;
+                top: 0px;
+                background: #FFFFFF;
+            } */
+            
+            .suporters {
+                position: absolute;
+                width: 394px;
+                height: 29px;
+                left: 486px;
+                top: 2927px;
+                font-family: Oswald;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 24px;
+                line-height: 36px;
+                text-align: center;
+                color: #2F4858;
+            }
+            
+            .logo1 {
+                position: absolute;
+                width: 241.95px;
+                height: 80px;
+                left: 168px;
+                top: 3045px;
+                background: url(getlogo.png);
+            }
+            
+            .logo2 {
+                position: absolute;
+                width: 209.32px;
+                height: 80px;
+                left: 495px;
+                top: 3045px;
+                background: url(Group.png);
+            }
+            
+            .logo3 {
+                position: absolute;
+                width: 238.96px;
+                height: 80px;
+                left: 789px;
+                top: 3045px;
+                background: url(Citybee-logo.png);
+            }
+            
+            .logo4 {
+                position: absolute;
+                width: 84.77px;
+                height: 120px;
+                left: 1113px;
+                top: 3026px;
+                background: url(logo2.png);
+            }
+            
+            .background {
+                height: 376px;
+                position: absolute;
+                left: 0%;
+                right: 0%;
+                top: 0%;
+                bottom: 0%;
+                background: #2F4858;
+            }
+            
+            .footer {
+                position: absolute;
+                width: 1366px;
+                height: 376px;
+                left: 0px;
+                top: 3275px;
+                position: absolute;
+                width: 1366px;
+                height: 376px;
+                left: 0px;
+                top: 3275px;
             }
