@@ -1,5 +1,7 @@
 console.log("hello world");
 $('#body').css('min-height', '100%');
+
+// te meģināju uztaisīt to vilnveida efektu bildei
 // document.addEventListener("DOMContentLoaded", function(event) {
 //     const container = document.getElementById("container")
 //     for (let index = 0; index < 1000; index++) {

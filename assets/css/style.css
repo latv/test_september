@@ -3,6 +3,10 @@
                 width: 100%;
             }
             
+            header {
+                background-color: white;
+            }
+            
             .column {
                 display: flex;
                 background-color: white;
