@@ -7,6 +7,10 @@ header {
     background-color: white;
 }
 
+.header.header {
+    height: 32px;
+}
+
 .union {
     position: absolute;
     width: 1367px;
@@ -38,6 +42,15 @@ header {
     font-size: 18px;
     line-height: 22px;
     color: #060606;
+}
+
+.wraper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+a {
+    color: black;
 }
 
 .idea {
@@ -147,7 +160,11 @@ header {
     color: #060606;
 }
 
-.video {
+ul {
+    list-style-type: none;
+}
+
+.banner-img {
     position: absolute;
     width: 1366px;
     height: 722px;
